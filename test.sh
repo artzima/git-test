@@ -7,3 +7,4 @@ echo "Enter 3-rd arg.: "
 read c
 d=$((a+b+c))
 echo "Arg4 = $d"
+echo "String in main branch"
